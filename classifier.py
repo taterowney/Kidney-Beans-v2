@@ -1,4 +1,5 @@
 from LoRA import *
+import torch
 
 MODEL_NAME = "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
 DEVICE = get_device()
