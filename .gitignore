@@ -1,2 +1,10 @@
 .idea
 .env
+old
+old_outputs
+__pycache__
+*.pyc
+eval2.py
+batch2.sh
+datasets
+logs
